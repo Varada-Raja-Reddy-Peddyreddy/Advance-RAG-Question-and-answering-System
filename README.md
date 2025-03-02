@@ -17,11 +17,7 @@ Ensure you have the following installed:
 - Python 3.8+
 - pip package manager
 
-### Clone the Repository
-```bash
- git clone https://github.com/yourusername/rag-qa-app.git
- cd rag-qa-app
-```
+
 
 ### Install Required Dependencies
 ```bash
@@ -78,5 +74,5 @@ os.environ['Groq_Api_key'] = groq_api_key
 This project is licensed under the **MIT License**.
 
 ## Author
-[Your Name](https://github.com/yourusername)
+VARADA RAJA REDDY
 
